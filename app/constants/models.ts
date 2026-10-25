@@ -1,0 +1,1 @@
+export const models=["command-a-plus-05-2026","c4ai-aya-expanse-32b","c4ai-aya-vision-32b","north-mini-code-1-0","tiny-aya-earth","tiny-aya-fire","tiny-aya-global",'tiny-aya-water']

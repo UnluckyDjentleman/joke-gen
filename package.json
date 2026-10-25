@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "axios": "^1.20.0",
+    "cohere-ai": "^8.1.0",
+    "i18next": "^26.4.1",
     "next": "16.3.4",
+    "next-i18next": "^16.0.11",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "react-i18next": "^17.0.13"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

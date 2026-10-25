@@ -1,0 +1,1 @@
+export const humour_styles=['Post-Irony','Dark Humour','Satyric','Wordplay', 'Sarcastic']
